@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880005211441",
+    "project_id": "resparify",
+    "storage_bucket": "resparify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880005211441:android:78638380d672b25d817c10",
+        "android_client_info": {
+          "package_name": "com.example.resparify5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhuyTJTYPIoxwIZX9pJp0Hibu_j3Hm7yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
